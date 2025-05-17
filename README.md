@@ -29,7 +29,7 @@
 
 ### Instructions
 
-1. Open[CodeBoot](https://codeboot.org/5.3.1/)
+1. Open [CodeBoot](https://codeboot.org/5.3.1/)
 2. Paste the contents of `project.py` into the CodeBoot editor  
 3. Click “▶ Run”  
 4. The amino acid sequences will appear in the terminal, and the Turtle window will display the proteins visually.
@@ -38,9 +38,13 @@
 
 ## 📁 Project Structure
 
-- `project.py` – Main script with all logic and drawing code  
-- `assets/` – Optional images for documentation (e.g., logo, university seal)  
-- `README.md` – Project overview and instructions  
+- `project.py` – Main script containing the full DNA-to-protein simulation  
+- `README.md` – Project documentation  
+- `assets/` – Images used in the README:
+  - `DNA2P.png` – Project logo  
+  - `console.png` – Example of console output (amino acid sequences)  
+  - `turtle.png` – Screenshot of Turtle graphics visualization  
+ 
 
 ---
 
@@ -56,10 +60,18 @@
 ## 🧪 Sample Output
 
 - **Console:**  
-  Displays translated amino acid sequences (e.g., `Methionine - Tyrosine - Glycine`)  
+  Displays translated amino acid sequences 
+
+<p align="center">
+  <img src="assets/console.png" alt="Console output"/>
+</p>
 
 - **Turtle Graphics:**  
   Visualizes each protein as a chain of letters inside drawn squares, organized into readable lines
+
+<p align="center">
+  <img src="assets/turtle.png" alt="Turtle output"/>
+</p>
 
 ---
 
