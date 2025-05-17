@@ -1,10 +1,12 @@
 # 🧬 DNA2Protein
 
+
+
+**DNA2Protein** is a Python-based educational tool that simulates gene expression — going from a DNA strand to a visual representation of proteins. It models **transcription**, **translation**, and displays the resulting proteins using **Turtle graphics**.
+
 <p align="center">
   <img src="assets/DNA2P.png" alt="DNA2Protein Logo"/>
 </p>
-
-**DNA2Protein** is a Python-based educational tool that simulates gene expression — going from a DNA strand to a visual representation of proteins. It models **transcription**, **translation**, and displays the resulting proteins using **Turtle graphics**.
 
 🧪 This project was developed for [CodeBoot](https://codeboot.org/5.3.1/), the Python environment used at **Université de Montréal**.
 
